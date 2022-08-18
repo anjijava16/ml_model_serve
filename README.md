@@ -14,7 +14,9 @@
 
 
 # Classfication
-![image](https://user-images.githubusercontent.com/5849522/185473085-7780c886-f8ca-4208-ad2a-0f6465887d2b.png)
+1. ![image](https://user-images.githubusercontent.com/5849522/185473525-77f1666e-285e-4330-a5d8-2debafb991d1.png)
+
+2. ![image](https://user-images.githubusercontent.com/5849522/185473085-7780c886-f8ca-4208-ad2a-0f6465887d2b.png)
 
 
 
