@@ -6,3 +6,5 @@
 https://github.com/srivatsan88
 https://www.youtube.com/watch?v=Y01TMdxySvI
 
+https://projectsbasedlearning.com/apache-spark-machine-learning/predicting-possible-loan-default-using-machine-learning/
+
