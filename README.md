@@ -1,6 +1,30 @@
 # ml_model_serve
 
 
+Here are several great posts that some of my practicers shared in the past few weeks.
+
+1. MLOps - Why is 𝗠𝗼𝗱𝗲𝗹 𝗥𝗲𝗴𝗶𝘀𝘁𝗿𝘆 important ?
+https://lnkd.in/ggQEvtmi
+
+2. Where Should Data Scientists And Data Engineers Meet In The Middle
+https://lnkd.in/gQb82jji
+
+3. Data Engineering Project - Personal Finances with Airflow, Docker, Great Expectations and Metabase
+https://lnkd.in/gXVaMSpX
+
+4. Data contracts + ML Architecture
+https://lnkd.in/giCXEsZz
+
+5. What Is Functional Data Engineering
+https://lnkd.in/gXdfc9kE
+
+6. Why It’s Important Learn But Also Practice
+https://lnkd.in/gZS9RCDV
+
+7. Should You Use Apache Airflow?
+https://lnkd.in/gKytsNP5
+
+
 Courses: 
 - Made With ML: https://madewithml.com/
 - Coursera - DeepLearning.AI MLOps specialization: https://lnkd.in/gVrxJqQS
